@@ -1,0 +1,12 @@
+language: java
+jdk:
+- openjdk11
+
+addons:
+	sonarcloud:
+		organization: Z
+		token: Y
+
+script:
+- ant build
+- sonar scanner
