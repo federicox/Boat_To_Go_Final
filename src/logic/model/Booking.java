@@ -5,12 +5,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 import logic.bean.BookingBean;
-import logic.model.bookingState.AcceptedState;
-import logic.model.bookingState.BookingState;
-import logic.model.bookingState.DeletedState;
-import logic.model.bookingState.InactiveState;
-import logic.model.bookingState.StateEnum;
-import logic.model.bookingState.SubmittedState;
+import logic.model.bookingstate.AcceptedState;
+import logic.model.bookingstate.BookingState;
+import logic.model.bookingstate.DeletedState;
+import logic.model.bookingstate.InactiveState;
+import logic.model.bookingstate.StateEnum;
+import logic.model.bookingstate.SubmittedState;
 import logic.model.dao.PersonDAO;
 import logic.model.dao.PersonDAOImpl;
 

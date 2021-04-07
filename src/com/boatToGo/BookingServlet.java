@@ -1,4 +1,4 @@
-package com.boatToGo;
+package com.boattogo;
 
 import java.io.IOException;
 import java.util.ArrayList;

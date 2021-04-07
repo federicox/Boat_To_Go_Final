@@ -1,4 +1,4 @@
-package logic.model.bookingState;
+package logic.model.bookingstate;
 
 import java.time.LocalDate;
 

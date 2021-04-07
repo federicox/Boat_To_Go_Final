@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.util.List;
 
 import logic.model.Person;
-import logic.model.bookingState.StateEnum;
+import logic.model.bookingstate.StateEnum;
 
 public class BookingBean {
 

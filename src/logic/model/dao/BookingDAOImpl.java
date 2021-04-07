@@ -12,7 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import logic.bean.BookingBean;
-import logic.model.bookingState.StateEnum;
+import logic.model.bookingstate.StateEnum;
 
 public class BookingDAOImpl implements BookingDAO {
 

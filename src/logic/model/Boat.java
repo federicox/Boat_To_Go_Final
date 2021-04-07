@@ -6,7 +6,7 @@ import java.util.List;
 
 import logic.bean.BookingBean;
 import logic.bean.BoatBean;
-import logic.model.bookingState.StateEnum;
+import logic.model.bookingstate.StateEnum;
 import logic.model.dao.BookingDAO;
 import logic.model.dao.BookingDAOImpl;
 import logic.model.dao.PersonDAO;
