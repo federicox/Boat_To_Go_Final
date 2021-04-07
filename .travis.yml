@@ -4,8 +4,8 @@ jdk:
 
 addons:
 	sonarcloud:
-		organization: Z
-		token: Y
+		organization: federicox
+		token: 97eac849021d51d8f03c52da269404a7e61fa67a
 
 script:
 - ant build
