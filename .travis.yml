@@ -1,12 +1,12 @@
 language: java
 jdk:
-- openjdk16
+  - openjdk16
 
 addons:
-	sonarcloud:
-		organization: federicox
-		token: 97eac849021d51d8f03c52da269404a7e61fa67a
+  sonarcloud:
+    organization: "federicox"
+    token: "97eac849021d51d8f03c52da269404a7e61fa67a"
 
 script:
-- ant build
-- sonar scanner
+  - ant build
+  - sonar scanner
